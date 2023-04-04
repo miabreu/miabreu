@@ -1,5 +1,15 @@
+
+###
+
+<h1 align="center">Hey, I'm Michelle 👋🕺🏽</h1>
+
 <div align="center">
-  <img height="150" src=" https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif?cid=ecf05e47n41n0g8g1uytjvekwk9sql9y59bb05bhluqiwv1w&rid=giphy.gif&ct=s"  />
+  <!---
+![toonmecom_ad91c0-removebg-preview](https://user-images.githubusercontent.com/42332056/229657743-e125ed77-16bd-4946-9354-30bbd1bc5515.png)
+--->
+  <img height="200" src="[https://imgur.com/a/jWRGg76](https://user-images.githubusercontent.com/42332056/229657743-e125ed77-16bd-4946-9354-30bbd1bc5515.png)" />
+  
+
 </div>
 
 ###
@@ -18,15 +28,6 @@
 
 ###
 
-<h1 align="center">Hey, I'm Michelle 👋🕺🏽</h1>
-
-###
-
-<div align="center">
-  <img height="200" src="https://imgur.com/a/jWRGg76"  />
-</div>
-
-###
 
 <h3 align="left">🤓  About Me</h3>
 
