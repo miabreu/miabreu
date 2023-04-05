@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on my website portfolio. <br>🌱 I’m currently learning how to cook potatoes<br>💬 Ask me about React, AI, and 90 Day Fiancé<br>📖 I am currently reading <i>My Year of Rest and Relaxation</i> by Ottessa Moshfegh<br>👩🏽‍💻All of my projects are available @ mmabreu.com<br>📄 Know about my experiences @ mmabreu.com/resume</p>
+<p align="left">🔭 I’m currently working on my website portfolio. <br>🌱 I’m currently learning about all the different ways on how to cook potatoes.<br>💬 Ask me about React, AI, and 90 Day Fiancé<br>📖 I am currently reading <i>My Year of Rest and Relaxation</i> by Ottessa Moshfegh<br>👩🏽‍💻All of my projects are available @ mmabreu.com<br>📄 Know about my experiences @ mmabreu.com/resume</p>
 
 ###
 
