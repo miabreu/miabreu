@@ -55,13 +55,5 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miabreu/miabreu/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miabreu/miabreu/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/miabreu/miabreu/output/github-contribution-grid-snake.svg">
-</picture>
-
-###
-
 <h5 align="center">Isaiah 54:17 KJV</h5>
 
